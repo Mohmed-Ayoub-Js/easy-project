@@ -1,0 +1,15 @@
+{
+  "name": "simple_calc-main",
+  "version": "1.0.0",
+  "description": "Simple Calc By Javascript By  A simple Codes Hello, this simple program was programmed to be a prelude to your program, in other words,  a simple addition to your program in Javascript language for your site",
+  "main": "Code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

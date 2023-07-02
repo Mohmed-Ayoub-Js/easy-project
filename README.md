@@ -1,2 +1,9 @@
-# easy-project
-You can get a set of projects that you created previously, it depends on choosing the project and checking the tests in it, all links to previous projects from the txt file and in the README
+# Simple_Calc
+# Hello , please Read This about my simple programme By Javascript
+See
+https://github.com/Mohmed-Ayoub-Js/Simple_Calc
+
+
+command : 
+npm init -y 
+npm install --save-dev
